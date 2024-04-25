@@ -4,7 +4,7 @@ const fs = require('fs');
 const cors = require('cors');
 
 const app = express();
-const port = 8000;
+const port = 8080;
 
 // Allow requests from all origins
 app.use(cors());
@@ -21,7 +21,21 @@ app.get('/api/data', (req, res) => {
     }
 });
 
+app.get('/api/data/:id', (req, res) => {
+  const id = parseInt(req.params.id);
+  const recipe = data.recipes.find(recipe => recipe.id === id);
+
+  if (recipe) {
+      res.json(recipe);
+  } else {
+      res.status(404).json({ error: 'Recipe not found' });
+  }
+});
+
+
 app.listen(port, () => {
     console.log(`Server listening on port ${port}`);
 });
+
+
 
