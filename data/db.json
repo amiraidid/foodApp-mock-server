@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Pesto Penne Pasta",
             "description": "Quick and easy pesto penne pasta is a simple and light Italian pasta dish made with just five ingredients in under 15 minutes. The easiest dinner.",
-            "image": "./assets/pasta/food_27.png",
+            "image": "/assets/pasta/food_27.png",
             "category": "pasta",
             "price" : 25
         },
@@ -12,7 +12,7 @@
             "id": 2,
             "name": "Spaghetti Carbonara",
             "description": "Creamy spaghetti carbonara (Spaghetti a la Carbonara) is a simple classic Italian pasta with pancetta that's quick and easy to make in minutes..",
-            "image": "./assets/pasta/food_29.png",
+            "image": "/assets/pasta/food_29.png",
             "category": "pasta",
             "price" : 20
         },
@@ -20,7 +20,7 @@
             "id": 3,
             "name": "Mascarpone Pesto Pasta",
             "description": "Quick and easy mascarpone pesto pasta is the tastiest creamy pasta dish you’ll ever make in under 15 minutes. It's the best weeknight dinner.",
-            "image": "./assets/pasta/food_28.png",
+            "image": "/assets/pasta/food_28.png",
             "category": "pasta",
             "price" : 34
         },
@@ -28,7 +28,7 @@
             "id": 4,
             "name": "Chicken Penne Pasta",
             "description": "Chicken penne pasta is a quick and easy dinner that is delicious, rich, creamy, and flavorful. It’s a family favorite that’s ready in under 30 minutes.",
-            "image": "./assets/pasta/food_26.png",
+            "image": "/assets/pasta/food_26.png",
             "category": "pasta",
             "price" :25
         },
@@ -36,7 +36,7 @@
             "id": 5,
             "name": "Spaghetti Bolognese",
             "description": "Quick easy spaghetti bolognese with a rich, thick, delicious and flavourful meat sauce is a family favourite ready in 30 minutes. Best weeknight dinner.",
-            "image": "./assets/pasta/food_31.png",
+            "image": "/assets/pasta/food_31.png",
             "category": "pasta",
             "price" : 12
         },
@@ -44,7 +44,7 @@
             "id": 6,
             "name": "Creamy Shrimp Pasta",
             "description": "Creamy shrimp pasta with sun-dried tomatoes is a delicious, quick and easy meal that takes just 20 minutes to prep and make. The perfect weeknight dinner.",
-            "image": "./assets/pasta/food_30.png",
+            "image": "/assets/pasta/food_30.png",
             "category": "pasta",
             "price" :20
         },
@@ -52,7 +52,7 @@
             "id": 7,
             "name": "Spaghetti and Meatballs",
             "description": "Quick and easy spaghetti and meatballs is delicious, rich, comforting with tender beef meatballs simmered in a savoury tomato sauce. ",
-            "image": "./assets/pasta/food_32.png",
+            "image": "/assets/pasta/food_32.png",
             "category": "pasta",
             "price" : 42
         },
@@ -60,7 +60,7 @@
             "id": 8,
             "name": "Ripple Ice Cream",
             "description": "Ice cream is possibly America’s favorite dessert. It’s sweet, creamy, and delicioulsy cold.",
-            "image": "./assets/desert/food_9.png",
+            "image": "/assets/desert/food_9.png",
             "category": "desert",
             "price" : 31
         },
@@ -68,7 +68,7 @@
             "id": 9,
             "name": "Fruit Ice Cream",
             "description": "Some of the most common flavors are chocolate, vanilla, butter pecan, mint chocolate chip, and strawberry.",
-            "image": "./assets/desert/food_10.png",
+            "image": "/assets/desert/food_10.png",
             "category": "desert",
             "price" : 16
         },
@@ -76,7 +76,7 @@
             "id": 10,
             "name": "Tart Pastry",
             "description": "Pie pastry is typically flaky, whereas tart pastry is thicker and will hold its shape when you pick it up.",
-            "image": "./assets/desert/food_11.png",
+            "image": "/assets/desert/food_11.png",
             "category": "desert",
             "price" : 22
         },
@@ -92,7 +92,7 @@
             "id": 12,
             "name": "Classic Chiffon Cake",
             "description": "Light and buttery, this simple cake is elevated with loads of fresh strawberries and a whipped cream.",
-            "image": "./assets/cake/food_17.png",
+            "image": "/assets/cake/food_17.png",
             "category": "cake",
             "price" : 15
         },
@@ -100,7 +100,7 @@
             "id": 13,
             "name": "Classic CheeseCake",
             "description": "This cake has a classic graham cracker crust and a traditional cream cheese and sour cream filling that’s flavored with a touch of lemon.",
-            "image": "./assets/cake/food_18.png",
+            "image": "/assets/cake/food_18.png",
             "category": "cake",
             "price" : 26
         },
@@ -108,7 +108,7 @@
             "id": 14,
             "name": "Toasted Coconut Honey",
             "description": "This soft, light cake is filled with coconutty goodness inside and out. The cream cheese frosting is finished.",
-            "image": "./assets/cake/food_19.png",
+            "image": "/assets/cake/food_19.png",
             "category": "cake",
             "price" : 23
         },
@@ -116,7 +116,7 @@
             "id": 15,
             "name": "Peanut Butter Fudge",
             "description": "Peanut butter ice cream, whipped cream, a chocolate cookie crust and a rich fudge sauce come together.",
-            "image": "./assets/cake/food_20.png",
+            "image": "/assets/cake/food_20.png",
             "category": "desert",
             "price" : 36
         },
@@ -124,7 +124,7 @@
             "id": 16,
             "name": "Grilled Chicken Sandwich",
             "description": "One of the most popular sandwiches served for breakfast in many cafes around the world. Quite easy to prepare, fresh due to vegetables.",
-            "image": "./assets/sandwich/food_13.png",
+            "image": "/assets/sandwich/food_13.png",
             "category": "sandwich",
             "price" : 12
         },
@@ -132,7 +132,7 @@
             "id": 17,
             "name": "Roast Beef Sandwich",
             "description": "For a roast beef sandwich, take a ciabatta, grease it with mustard inside. Spread lettuce, tomatoes, meat, salsa on top.",
-            "image": "./assets/sandwich/food_14.png",
+            "image": "/assets/sandwich/food_14.png",
             "category": "sandwich",
             "price" : 25
         },
@@ -140,7 +140,7 @@
             "id": 18,
             "name": "Chicken Sandwich",
             "description": "Сhicken Sandwich is one of the most popular sandwiches served for breakfast in many cafes around the world. Quite easy to prepare.",
-            "image": "./assets/sandwich/food_15.png",
+            "image": "/assets/sandwich/food_15.png",
             "category": "sandwich",
             "price" : 18
         },
@@ -148,7 +148,7 @@
             "id": 19,
             "name": "Seafood Sandwich",
             "description": "On the toast of fragrant rye bread, there is tender lightly salted salmon, Edam cheese, crispy cucumbers, and lettuce leaves.",
-            "image": "./assets/sandwich/food_16.png",
+            "image": "/assets/sandwich/food_16.png",
             "category": "sandwich",
             "price" : 22
         },
@@ -156,7 +156,7 @@
             "id": 20,
             "name": " Mutton Kathi Roll",
             "description": "kathi roll is a street-food that originated in Kolkata? Mutton filled kathis are an all time favourite of dedicated meat lovers",
-            "image": "./assets/Rolls/food_5.png",
+            "image": "/assets/Rolls/food_5.png",
             "category": "Rolls",
             "price" : 19
         },
@@ -164,7 +164,7 @@
             "id": 21,
             "name": "Paneer Tikka Kathi Roll",
             "description": "paneerstacked in the brilliance of egg parathas is sure to be winner! You can add in veggies of your choice to up its nutritional value",
-            "image": "./assets/Rolls/food_6.png",
+            "image": "/assets/Rolls/food_6.png",
             "category": "Rolls",
             "price" : 14
         },
@@ -172,7 +172,7 @@
             "id": 22,
             "name": "Chicken Shawarma",
             "description": "Shawarma has its genesis in the Turkish doner kebab. Bite in to these mouthwatering rolls loaded with chicken and authentic masalas.",
-            "image": "./assets/Rolls/food_7.png",
+            "image": "/assets/Rolls/food_7.png",
             "category": "Rolls",
             "price" : 18
         },
@@ -180,7 +180,7 @@
             "id": 23,
             "name": "Burritos with Minced Meat Filling",
             "description": "This classic Mexican delicacy will knock your socks off! Flour tortillas stuffed with a generous helping of mildly-spiced minced meat mixture. ",
-            "image": "./assets/Rolls/food_8.png",
+            "image": "/assets/Rolls/food_8.png",
             "category": "Rolls",
             "price" : 22
         },
@@ -188,7 +188,7 @@
             "id": 24,
             "name": "Wedge Salad",
             "description": "A wedge salad is made from a halved or quartered head of iceberg lettuce. The leaves are kept intact and not separated or shredded.",
-            "image": "./assets/salad/food_1.png",
+            "image": "/assets/salad/food_1.png",
             "category": "salad",
             "price" : 13
         },
@@ -196,7 +196,7 @@
             "id": 25,
             "name": "Caesar Salad",
             "description": "Romaine lettuce, croutons, and Parmesan tossed with a dressing featuring lemon juice, olive oil, etc",
-            "image": "./assets/salad/food_2.png",
+            "image": "/assets/salad/food_2.png",
             "category": "salad",
             "price" : 20
         },
@@ -204,7 +204,7 @@
             "id": 26,
             "name": "Leafy Green Salad",
             "description": "is a general term that can refer to any tossed salad made with greens, such as iceberg lettuce, arugula, and spinach.",
-            "image": "./assets/salad/food_3.png",
+            "image": "/assets/salad/food_3.png",
             "category": "salad",
             "price" : 22
         },
@@ -212,7 +212,7 @@
             "id": 27,
             "name": "Niçoise Salad",
             "description": "Traditionally, salade niçoise is made with tomatoes, hard-boiled eggs, anchovies or tuna, and Niçoise olives.",
-            "image": "./assets/salad/food_4.png",
+            "image": "/assets/salad/food_4.png",
             "category": "salad",
             "price" : 30
         },
@@ -228,7 +228,7 @@
             "id": 29,
             "name": "Cobb Salad",
             "description": "A Cobb is a hearty salad, so it's generally served as an entree instead of a side dish. It's made with chopped lettuce, bacon.",
-            "image": "./assets/salad/food_22.png",
+            "image": "/assets/salad/food_22.png",
             "category": "salad",
             "price" : 26
         },
@@ -236,7 +236,7 @@
             "id": 30,
             "name": "Chicken Salad",
             "description": "usually refers to a dish made of shredded chicken and mayonnaise. Other common chicken salad ingredients are grapes, pickles, and onions.",
-            "image": "./assets/salad/food_23.png",
+            "image": "/assets/salad/food_23.png",
             "category": "salad",
             "price" : 18
         },
@@ -244,7 +244,7 @@
             "id": 31,
             "name": "Waldorf Salad",
             "description": "A Waldorf salad is a fruity, nutty salad that gets its name from the Waldorf-Astoria hotel in New York where it originated.",
-            "image": "./assets/salad/food_24.png",
+            "image": "/assets/salad/food_24.png",
             "category": "salad",
             "price" : 22
         }
